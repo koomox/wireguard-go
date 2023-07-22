@@ -7,7 +7,7 @@ require (
 	golang.org/x/crypto v0.11.0
 	golang.org/x/net v0.12.0
 	golang.org/x/sys v0.10.0
-	gvisor.dev/gvisor v0.0.0-20230719045321-ea7cd7184192
+	gvisor.dev/gvisor v0.0.0-20221203005347-703fd9b7fbc0
 )
 
 require (
