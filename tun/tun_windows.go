@@ -15,7 +15,7 @@ import (
 	_ "unsafe"
 
 	"golang.org/x/sys/windows"
-	"github.com/koomox/wintun-go"
+	wintun "github.com/koomox/wintun-go"
 )
 
 const (
